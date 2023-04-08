@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-raj13" alt="ayush-raj13" /></a> </p>
 
+- 🏢 I am currently studying in **IIIT Bhubaneswar**
+
+- 🏢 Former Student at **St. Michael's High School, Patna**
+
 - 🌱 I’m currently learning **Microservices with Node JS and React**
 
 - 📫 How to reach me **ayushraj.iiitbh@gmail.com**
